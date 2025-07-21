@@ -51,7 +51,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <h1>🔐 Passphrase Profiling Tool</h1>
   <form method="POST">
     <label for="phrases">Enter multiple passphrases (one per line):</label><br>
-    <textarea name="phrases" placeholder="e.g.\n\n Hello2024!&#10;\nHello2023!"></textarea><br><br>
+    <textarea name="phrases" placeholder="e.g. Hello2024!&#10; Hello2023!"></textarea><br><br>
     <button type="submit">Analyze</button>
   </form>
 
