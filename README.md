@@ -1,4 +1,5 @@
 Passphrase Profiling Tool is a privacy-friendly web application for analyzing and evaluating user passphrases.
+
 It identifies behavioral patterns in password creation, such as repeated use of years, predictable keyboard sequences, or structural similarities.
 
 The tool calculates entropy, checks for uppercase/lowercase letters, digits, symbols, and flags weak or common patterns.
